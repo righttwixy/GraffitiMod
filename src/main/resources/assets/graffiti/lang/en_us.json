@@ -1,0 +1,20 @@
+{
+  "item.graffiti.graffiti_tool": "Spray Can",
+  "tooltip.graffiti.color_hex": "HEX Color",
+  "screen.graffiti.title": "Graffiti Editor",
+  "screen.graffiti.hex_label": "HEX Color",
+  "screen.graffiti.size_label": "Size",
+  "screen.graffiti.hex_alpha": "HEX / Alpha",
+  "screen.graffiti.brush_size": "Brush Size",
+  "hud.graffiti.tool.pencil": "Pencil",
+  "hud.graffiti.tool.eraser": "Eraser",
+  "hud.graffiti.tool.fill": "Fill",
+  "hud.graffiti.tool.picker": "Color Picker",
+  "itemGroup.graffiti.group": "Graffiti",
+  "title.graffiti.config": "Graffiti Mod Settings",
+  "category.graffiti.general": "General Settings",
+  "option.graffiti.enabled": "Enable Graffiti Rendering",
+  "option.graffiti.culling": "Enable Smart Culling",
+  "tooltip.graffiti.culling": "Hides graffiti that is not in your field of view to improve FPS.",
+  "option.graffiti.distance": "Render Distance"
+}

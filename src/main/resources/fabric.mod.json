@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "graffiti",
+  "version": "0.04",
+  "name": "Graffiti Mod",
+  "description": "A creative mod that allows players to paint on any block surface with customizable colors and tools.",
+  "authors": [
+    "righttwixys"
+  ],
+  "license": "MIT",
+  "icon": "assets/graffiti/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "by.righttwixys.graffiti.GraffitiMod"
+    ],
+    "client": [
+      "by.righttwixys.graffiti.client.GraffitiClient"
+    ],
+    "modmenu": [
+      "by.righttwixys.graffiti.client.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

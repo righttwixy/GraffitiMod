@@ -1,0 +1,20 @@
+{
+  "item.graffiti.graffiti_tool": "Баллончик с краской",
+  "tooltip.graffiti.color_hex": "Цвет HEX",
+  "screen.graffiti.title": "Редактор Граффити",
+  "screen.graffiti.hex_label": "HEX Цвет",
+  "screen.graffiti.size_label": "Размер",
+  "screen.graffiti.hex_alpha": "HEX / Прозрачность",
+  "screen.graffiti.brush_size": "Размер кисти",
+  "hud.graffiti.tool.pencil": "Карандаш",
+  "hud.graffiti.tool.eraser": "Ластик",
+  "hud.graffiti.tool.fill": "Заливка",
+  "hud.graffiti.tool.picker": "Пипетка",
+  "itemGroup.graffiti.group": "Граффити",
+  "title.graffiti.config": "Настройки мода Graffiti",
+  "category.graffiti.general": "Основные настройки",
+  "option.graffiti.enabled": "Отображение граффити",
+  "option.graffiti.culling": "Оптимизация (Culling)",
+  "tooltip.graffiti.culling": "Скрывает граффити, которые находятся вне поля зрения, для повышения FPS.",
+  "option.graffiti.distance": "Дальность прорисовки"
+}
